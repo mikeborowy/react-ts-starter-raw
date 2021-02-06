@@ -1,0 +1,16 @@
+config
+compile_errors
+dist
+lib
+library
+node_modules
+public
+scripts
+server
+*.spec.ts
+*.d.ts
+*.scss.d.ts
+*.config.js
+*.dev.js
+*.prod.js
+reportWebVitals.ts
