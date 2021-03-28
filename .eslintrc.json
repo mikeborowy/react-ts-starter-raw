@@ -10,6 +10,7 @@
     "plugin:import/errors",
     "plugin:import/warnings",
     "airbnb",
+    "airbnb/hooks",
     "prettier/react",
     "prettier",
     "prettier/@typescript-eslint"
